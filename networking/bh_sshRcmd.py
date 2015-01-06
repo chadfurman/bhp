@@ -1,3 +1,5 @@
+# use with bh_sshserver.py
+
 import threading
 import paramiko
 import subprocess
